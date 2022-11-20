@@ -1,5 +1,11 @@
-TO-DO:-
-20/11/2022 ---- Day-1 :-
-  1. Write this project in reactJS
-  2. build BackEnd
-  3. Host the website
+Steps:-
+
+  . Create UI/UX design on figma
+  . Build frontEnd (WTH of garphic designer)
+  . Write this project in reactJS
+  . build BackEnd
+  . Host the website
+
+Completed:-
+  . On 20/11/2022 :-
+     frontEnd code---raw
