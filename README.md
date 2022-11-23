@@ -7,5 +7,6 @@ Steps:-
   5. Host the website
 
 Completed:-
-  . On 20/11/2022 :-
-     1. frontEnd code---raw
+
+  1. On 20/11/2022 :-
+     frontEnd code---raw
